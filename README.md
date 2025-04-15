@@ -45,13 +45,12 @@ To run this notebook on your local machine:
 ## 🧪 Example Results
 
 Below is the training accuracy and loss plot over epochs:
-![Training Accuracy Plot](accuracy_plot.png)
+![Test Accuracy predicted Plot](https://github.com/Ayush-07-cmd/Convolutional-Neural-Network-CNN-Network/blob/main/Predicted.png.png)
 
 ## 📈 Training Logs
 
-- Training Accuracy: ~XX%
-- Validation Accuracy: ~XX%
-- Number of Epochs: 10 (can be adjusted)
+- Test Accuracy: 59.03
+- Number of Epochs: 5
 
 ## ✨ Customization
 
@@ -61,9 +60,6 @@ You can easily swap out the dataset for another image dataset. Just modify the `
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you'd like to change.
 
-## 📜 License
-
-[MIT](LICENSE)
 
 ---
 
