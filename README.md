@@ -44,7 +44,8 @@ To run this notebook on your local machine:
 
 ## 🧪 Example Results
 
-> Include a screenshot here of the accuracy/loss graph and a confusion matrix if possible!
+Below is the training accuracy and loss plot over epochs:
+![Training Accuracy Plot](accuracy_plot.png)
 
 ## 📈 Training Logs
 
